@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+    .menu {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .logo {
+        padding: 24px;
+        margin: 0 auto;
+
+        font-size: 28px;
+    }
+
+    .contact-form {
+        padding: 10em;
+    }
+}
+
+@media (max-width: 810px) {
+    .content-row {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+        margin: 0;
+    }
+}
+
+@media (max-width: 1279px) {
+    .contact-form_button-rectangle {
+        display: block;
+    }
+    .contact-form_button-circle {
+        display: none;
+    }
+    .contact-form {
+        width: calc(280px + 5vw);
+        height: calc(280px + 5vw);
+    }
+}
