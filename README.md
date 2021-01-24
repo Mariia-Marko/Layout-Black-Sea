@@ -27,4 +27,4 @@
 
 ***
 
-### [result of work](https://mariia-marko.github.io/Layout-Black-Sea/)
+### [result of work](https://mariia-marko.github.io/layout-Black-Sea/)
